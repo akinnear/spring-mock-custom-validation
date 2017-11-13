@@ -35,3 +35,6 @@ proguard/
 .gradle/
 build/
 bin/
+
+#vscode
+.vscode/
